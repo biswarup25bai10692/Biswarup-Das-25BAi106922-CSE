@@ -14,7 +14,7 @@ Task 4 — Professional Communication & Social Media Etiquette Drafted formal em
 
 Task 5 — Cybercrime Awareness Case Study Prepared a detailed case study on phishing attacks along with a prevention guide to promote safe online behavior among students.
 
-Tools & Platforms Used Canva — Infographic design GitHub — Project repository LinkedIn — Professional networking Kaggle — Learning platform HackerRank — Coding practice Google Forms — Online quiz creation Learning Outcomes Improved digital literacy and online safety awareness Built a professional digital presence Learned responsible digital communication Gained familiarity with collaboration and coding platforms Understood common cyber threats and prevention methods Google Form Quiz https://docs.google.com/forms/d/1CebNTmoAJUN3L60HSUPC410RQ3lnv7PwD1miLP0_2UI/edit?hl=en-GB
+Tools & Platforms Used Canva — Infographic design GitHub — Project repository LinkedIn — Professional networking Kaggle — Learning platform HackerRank — Coding practice Google Forms — Online quiz creation Learning Outcomes Improved digital literacy and online safety awareness Built a professional digital presence Learned responsible digital communication Gained familiarity with collaboration and coding platforms Understood common cyber threats and prevention methods Google Form Quiz (https://docs.google.com/forms/d/e/1FAIpQLSdZU4rcYbSQrhavXM1nnTLy0glOUEfwLOOfsGVUH4t0YCmiLw/viewform?usp=publish-editor)
 
 Conclusion This project enhanced my understanding of how digital technologies can be used safely, responsibly, and productively for academic success and future career development.
 
